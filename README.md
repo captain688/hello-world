@@ -1,2 +1,2 @@
 # hello-world
-my first project in git hub
+my name is Raphael. I like PHP and HTML coding
